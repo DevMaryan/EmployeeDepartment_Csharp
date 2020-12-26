@@ -1,5 +1,6 @@
 # EmployeeDepartment_Csharp
-
+C# Employee Department App
+<p>
 The first employee is John Doe.
 He is 26 years old.
 His position is Developer.
@@ -66,4 +67,4 @@ The Developer No. 1 knows the following programming languages:
 C#,JavaScript,HTML
 
 Second Department.The salary of the Salesman No.1 is: 451
-The first manager has $1090 salary
+The first manager has $1090 salary</p>
